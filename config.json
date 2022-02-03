@@ -1,0 +1,11 @@
+{
+  "prefix" : "!",
+  "token": "OTM3NTM2MTM5ODczNjE5OTc4.YfdKkg.1GncLn90EFoyxqremO1ofG30Ifs",
+  "db": "mongodb+srv://Kabin:bubulmama1234@cluster0.bqsrc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "color": "BLUE",
+    "error": "RED",
+    "success": "GREEN"
+
+  
+  }
+     
